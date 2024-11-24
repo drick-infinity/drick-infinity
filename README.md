@@ -1,5 +1,3 @@
-## Hi there 👋
-
 
 <div align="center">
 <img src="developer.gif" align="center" style="width: 100%" />
