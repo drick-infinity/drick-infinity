@@ -6,12 +6,12 @@
   
 
 ### <div align="center">## About Me
-I'm Harshita Malviya 👨‍💻 a BCA final year student passionate about software development and full-stack web development. I enjoy creating applications that combine both the 🚀front-end and back-end aspects to deliver seamless user experiences.
+I'm Harshita Malviya 👨‍💻 a M.C.A. student from Mugneeram Bangue Memorial University passionate about software development and full-stack web development. I enjoy creating applications that combine both the 🚀front-end and back-end aspects to deliver seamless user experiences.
 </div>  
   
 
 - ## Skills🙇
-- **Programming Languages:** JavaScript, Python, Java,C++
+- **Programming Languages:** JavaScript,Java,C++
 - **Front-end:** HTML, CSS, Tailwind CSS, React.js
 - **Back-end:** Node.js, Express.js
 - **Databases:** MySQL, MongoDB,Oracle,SQL
@@ -92,11 +92,6 @@ I'm excited to continue growing as a developer and applying what I've learned to
 
 <br/>  
 
-  ## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
-  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
-</div>
 
 <br/>  
 
