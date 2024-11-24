@@ -14,7 +14,7 @@ I'm Harshita Malviya 👨‍💻 a M.C.A. student from Mugneeram Bangue Memorial
 - **Programming Languages:** JavaScript,Java,C++
 - **Front-end:** HTML, CSS, Tailwind CSS, React.js
 - **Back-end:** Node.js, Express.js
-- **Databases:** MySQL, MongoDB,Oracle,SQL
+- **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub  
   
 
